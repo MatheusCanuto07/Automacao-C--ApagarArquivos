@@ -1,0 +1,15 @@
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\bin\Debug\net6.0\Apagar arquivo.exe
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\bin\Debug\net6.0\Apagar arquivo.deps.json
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\bin\Debug\net6.0\Apagar arquivo.runtimeconfig.json
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\bin\Debug\net6.0\Apagar arquivo.dll
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\bin\Debug\net6.0\Apagar arquivo.pdb
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\obj\Debug\net6.0\Apagar arquivo.csproj.AssemblyReference.cache
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\obj\Debug\net6.0\Apagar arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\obj\Debug\net6.0\Apagar arquivo.AssemblyInfoInputs.cache
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\obj\Debug\net6.0\Apagar arquivo.AssemblyInfo.cs
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\obj\Debug\net6.0\Apagar arquivo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\obj\Debug\net6.0\Apagar arquivo.dll
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\obj\Debug\net6.0\refint\Apagar arquivo.dll
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\obj\Debug\net6.0\Apagar arquivo.pdb
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\obj\Debug\net6.0\Apagar arquivo.genruntimeconfig.cache
+C:\Users\Matheus Canuto\source\repos\Apagar arquivo\Apagar arquivo\obj\Debug\net6.0\ref\Apagar arquivo.dll
